@@ -5,7 +5,7 @@
 
 - 🌱 Estoy aprendiendo aún mas **JavaScript**
 
-- 😃 Acerca de mi **Tengo 22 años, estoy cursando mi octavo y ultimo semestre de la carrera Ingeniería en Desarrollo de Software, en la Universidad Tecmilenio. Me apasiona mucho el desarrollo Web, y estoy practicando cada vez mas el desarrollo Back-End para en un futuro dedicarme a ambos**
+- 😃 Acerca de mi **Tengo 22 años, soy egresado de la carrera Ingeniería en Desarrollo de Software, en la Universidad Tecmilenio. Me apasiona mucho el desarrollo Web, y estoy practicando cada vez mas el desarrollo Back-End para en un futuro dedicarme a ambos**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
