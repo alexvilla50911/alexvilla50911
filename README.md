@@ -13,12 +13,12 @@
 -  Egresado de Ingeniería en Desarrollo de Software, Universidad Tecmilenio
 -  Tengo 24 años
 -  Sigo profundizando en **TypeScript** y en desarrollo Back-End & AI engineering 
-- 🚀 Me apasiona el desarrollo web de punta a punta — frontend y backend
+-  Me apasiona el desarrollo web de punta a punta — frontend y backend
 -  Monterrey, Nuevo León, México
 
 ---
 
-### 🛠️ Stack con el que trabajo
+###  Stack con el que trabajo
 
 <p align="left">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
