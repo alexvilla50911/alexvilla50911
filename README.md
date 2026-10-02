@@ -39,15 +39,6 @@
 
 ---
 
-### 📊 Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexvilla50911&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexvilla50911&theme=radical&hide_border=true" width="48%" />
-</p>
-
----
-
 ### 🤝 Conecta conmigo
 
 <p align="left">
