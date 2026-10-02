@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Alejandro Villarreal Carvajal 👋</h1>
+<h1 align="center">¡Hola! Soy Alejandro Villarreal Carvajal </h1>
 <h3 align="center">Frontend Lead Developer @ Adquiere.co</h3>
 
 <p align="center">
@@ -7,14 +7,14 @@
 
 ---
 
-### 🙋‍♂️ Sobre mí
+###  Sobre mí
 
-- 💼 Actualmente soy **Frontend Lead Developer en Adquiere.co**
-- 🎓 Egresado de Ingeniería en Desarrollo de Software, Universidad Tecmilenio
-- 🎂 Tengo 24 años
-- 🌱 Sigo profundizando en **JavaScript** y en desarrollo Back-End
+-  Actualmente soy **Frontend Lead Developer en Adquiere.co**
+-  Egresado de Ingeniería en Desarrollo de Software, Universidad Tecmilenio
+-  Tengo 24 años
+-  Sigo profundizando en **TypeScript** y en desarrollo Back-End & AI engineering 
 - 🚀 Me apasiona el desarrollo web de punta a punta — frontend y backend
-- 📍 Monterrey, Nuevo León, México
+-  Monterrey, Nuevo León, México
 
 ---
 
@@ -39,7 +39,7 @@
 
 ---
 
-### 🤝 Conecta conmigo
+###  Conecta conmigo
 
 <p align="left">
 <a href="https://twitter.com/alexvilla50911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alexvilla50911" height="30" width="40" /></a>
